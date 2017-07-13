@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BuffetUTN</string>
+    <string name="log_in_title">Start</string>
+    <string name="log_in_subtitle">Welcome to the first Buffet-UTN application</string>
+    <string name="log_in_lbl_mail">E-mail</string>
+    <string name="log_in_txt_mail_msg">Insert your email here</string>
+    <string name="log_in_invalid_mail_msg">Invalid e-mail address</string>
+    <string name="log_in_lbl_contraseña">Password</string>
+    <string name="log_in_txt_contraseña_msg">Insert your password here</string>
+    <string name="log_in_btn_ingresar">Sign in</string>
+    <string name="log_in_btn_separador">or</string>
+    <string name="log_in_btn_registrar">Register</string>
+    <string name="registro_title">User Registration</string>
+    <string name="registro_subtitle">This is the registration screen\nPlease enter real data</string>
+    <string name="registro_lbl_nombre">First name</string>
+    <string name="registro_lbl_apellido">Last name</string>
+    <string name="registro_lbl_dni">Driving license</string>
+    <string name="registro_lbl_mail">E-mail</string>
+    <string name="registro_lbl_contraseña">Password</string>
+    <string name="registro_lbl_confirmacion_contraseña">Confirm password</string>
+    <string name="registro_btn_registrar">Sign me up</string>
+    <string name="logo_buffet">logo buffet</string>
+    <string name="log_in_chk_recordarme">Remember me</string>
+    <string name="required_field_error_msg">You must define a value for the field</string>
+    <string name="invalid_password_msg">Invalid password</string>
+    <string name="item_menu_btn_agregar">Add</string>
+    <string name="descripcion_generica">Pending description</string>
+</resources>
